@@ -1,0 +1,12 @@
+{
+  "name": "todolist",
+  "author": "RAFAIDEEN Richard",
+  "version": "1.0.0",
+  "private": "true",
+  "workspaces": [],
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "prettier-eslint": "^16.3.0"
+  }
+}
